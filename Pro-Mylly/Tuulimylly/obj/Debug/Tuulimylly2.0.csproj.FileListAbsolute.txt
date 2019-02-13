@@ -1,0 +1,10 @@
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\bin\Debug\Tuulimylly2.0.exe.config
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\bin\Debug\Tuulimylly2.0.exe
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\bin\Debug\Tuulimylly2.0.pdb
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\obj\Debug\Tuulimylly2.0.csprojAssemblyReference.cache
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\obj\Debug\Tuulimylly2._0.Form1.resources
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\obj\Debug\Tuulimylly2._0.Properties.Resources.resources
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\obj\Debug\Tuulimylly2.0.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\obj\Debug\Tuulimylly2.0.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\obj\Debug\Tuulimylly2.0.exe
+C:\Users\Gamer\source\repos\Tuulimylly2.0\Tuulimylly2.0\obj\Debug\Tuulimylly2.0.pdb
