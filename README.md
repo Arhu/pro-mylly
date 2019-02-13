@@ -5,7 +5,7 @@ satunnaisiin paikkoihin tai avaamaan näytön säästäjiä näytölle. Tuulimyl
 https://www.dropbox.com/sh/qld65kf6gv9vtxi/AACanWyny4bsMQ_3phrE6ggna?dl=1
 
 # Kaikki versiot
-3.0 
+3.0  https://www.dropbox.com/s/7mxhkrwomjrglg9/Tuulimylly3.0.zip?dl=1
 
 V2.1 https://www.dropbox.com/sh/qld65kf6gv9vtxi/AACanWyny4bsMQ_3phrE6ggna?dl=1
 
