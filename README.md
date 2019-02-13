@@ -1,6 +1,6 @@
 # Tuulimylly
 Tuulimylly on hauska jekku ohjelma Windowsille jonka saa esimerkiksi avaamaan cmd ikkunoita, liikuttamaan hiirtä
-satunnaisiin paikkoihin tai avaamaan näytön säästäjiä näytölle. Tuulimyllyn voi ladata tästä:
+satunnaisiin paikkoihin, glitchaamaan näyttöä tai avaamaan näytön säästäjiä näytölle. Tuulimyllyn voi ladata tästä:
 
 https://www.dropbox.com/sh/qld65kf6gv9vtxi/AACanWyny4bsMQ_3phrE6ggna?dl=1
 
